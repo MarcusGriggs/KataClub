@@ -31,7 +31,7 @@ struct ContentView: View {
                     Text("Dynamic Triangle (Logic)")
                 }
                 NavigationLink(destination: FeaturedAppHelperView()) {
-                    Text("Featured App (Interface)")
+                    Text("Featured App (Interfaces)")
                 }
                 NavigationLink(destination: ArithmeticProgressionView()) {
                     Text("Arithmetic Progression (Logic)")
